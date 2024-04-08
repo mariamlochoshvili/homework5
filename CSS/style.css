@@ -1,0 +1,130 @@
+/* wraper styles */
+.wraper {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left-wraper {
+    width: 671px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 51px;
+}
+.right-wraper {
+    width: 678px;
+    display: inline-block;
+    vertical-align: top;
+}
+.left-wraper-title {
+    font-size: 36px;
+    color: #7EB693;
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.wraper-desc {
+    font-size: 50px;
+    color: #274C5B;
+    margin-top: 6px;
+    margin-bottom: 25px;
+    font-family: 'Roboto';
+}
+.wraper-desc2 {
+    font-size: 18px;
+    color: #525C60;
+    margin-bottom: 35px;
+    font-family: 'Open Sans';
+}
+.gray-block {
+    width: 339px;
+    height: 81px;
+    background-color: #ECECEC;
+    padding-top: 29px;
+    padding-bottom: 29px;
+    padding-bottom: 27px;
+    margin-bottom: 12px;
+}
+.wraper-desc3 {
+    font-size: 18px;
+    color: #525C60;
+    margin-left: 60px;
+    font-family: 'Open Sans';
+}
+.gray-block-desc {
+    display: inline-block;
+    color: #274C5B;
+    font-size: 20px;
+    margin-left: 7px;
+    font-family: 'Roboto';
+}
+.active-gray {
+    margin-top: 24px;
+}
+.right-wraper-img {
+    width: 100%;
+}
+.header-desc {
+    width: 1595.79px;
+    margin-left: 162px;
+    margin-right: auto;
+    margin-top: 69px;
+    margin-bottom: 69px;
+}
+.nav-li-element {
+    display: inline-block;
+}
+.section-bg{
+    background-color: #f9f8f8;
+}
+.bottom-div{
+    width: 1118px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 100px;
+    padding-left: 130px;
+}
+.bottom-box{
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    display: inline-block;
+    padding-top: 29px;
+}
+.active {
+    margin-right: 30px;
+}
+.bottom-box-h4{
+    text-align: left;
+    font-size: 25px;
+    color: #274C5B;
+    margin-left: 22px;
+    padding-bottom: 15px;
+    font-family: 'Roboto';
+}
+.bottom-box-desc{
+    font-size: 18px;
+    color: #525C60;
+    margin-left: 36px;
+    margin-right: 37px;
+    text-align: center;
+    line-height: 29.77px;
+    font-family: 'Open Sans';
+}
+.header-logo{
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 50px;
+}
+.navigation-block{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 150px;
+}
+.nav-a-item{
+    display: inline-block;
+    font-size: 20px;
+    color: #274C5B;
+    padding-left: 30px;
+    font-family: 'Roboto';
+}
+
